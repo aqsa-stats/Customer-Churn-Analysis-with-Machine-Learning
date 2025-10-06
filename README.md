@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis-with-Machine-Learning
-
+https://github.com/user-attachments/assets/85d7e6f8-addf-4caa-a0f5-e86682779e00
 #  Project Overview
 
 This project demonstrates an **end-to-end data analytics pipeline** for predicting and analyzing **telecom customer churn** using **SQL, Python, and Power BI**.  
